@@ -53,7 +53,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
     [SYM] = LAYOUT(
         KC_TRNS, KC_NO,   KC_NO,   KC_NO,   KC_NO,    KC_NO,                            KC_NO,   KC_NO,   KC_NO,   KC_NO,   KC_NO,   KC_TRNS,
-        KC_NO,   KC_GRV,  EU_LABK, EU_RABK, KC_MINUS, EU_PIPE,                          EU_DCIR, EU_LBRC, EU_RCBR, EU_DLR,  EU_DQUO, KC_NO,
+        KC_NO,   KC_GRV,  EU_LABK, EU_RABK, KC_MINUS, EU_PIPE,                          EU_DCIR, EU_LCBR, EU_RCBR, EU_DLR,  EU_DQUO, KC_NO,
         KC_NO,   EU_EXLM, KC_ASTR, KC_SLSH, KC_EQUAL, EU_AMPR,                          EU_HASH, EU_LPRN, EU_RPRN, KC_SCLN, EU_QUES, EU_BSLS,
         KC_NO,   EU_TILD, KC_PLUS, KC_LBRC, KC_RBRC,  EU_PERC,                          EU_AT,   EU_COLN, KC_COMM, KC_DOT,  KC_QUOT, KC_NO,
                                             KC_TRNS, KC_TRNS, EU_UNDS,          KC_TRNS, KC_TRNS, KC_TRNS
