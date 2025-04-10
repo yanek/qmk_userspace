@@ -1,13 +1,8 @@
 {
-  "userspace_version": "1.1",
-  "build_targets": [
-    [
-      "silakka54",
-      "custom"
-    ],
-    [
-      "handwired/nk9",
-      "default"
+    "userspace_version": "1.1",
+    "build_targets": [
+        ["silakka54", "custom"],
+        ["handwired/nk9", "default"],
+        ["keychron/q3/ansi", "custom"]
     ]
-  ]
 }
